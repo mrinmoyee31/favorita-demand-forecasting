@@ -113,7 +113,7 @@ retail-demand-forecasting/
 ### Roadmap
 
 - [x] Repository Setup
-- [ ] Exploratory Data Analysis
+- [x] Exploratory Data Analysis
 - [ ] Data Cleaning
 - [ ] Feature Engineering
 - [ ] XGBoost Baseline Model
